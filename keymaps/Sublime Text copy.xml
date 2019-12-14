@@ -1,4 +1,7 @@
 <keymap version="1" name="Sublime Text copy" parent="Sublime Text">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow">
@@ -14,6 +17,9 @@
   <action id="CheckinProject" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="GoToTab1">
