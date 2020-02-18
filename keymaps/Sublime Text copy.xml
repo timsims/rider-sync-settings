@@ -55,6 +55,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="RiderUnitTestRunContextAction">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="VimWindowLeft">
     <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
