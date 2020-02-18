@@ -56,7 +56,7 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="ReopenClosedTab" />
-  <action id="RiderUnitTestRepeatPreviousRunTwAction">
+  <action id="RiderUnitTestRepeatPreviousRunAction">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="RiderUnitTestRunContextAction">
