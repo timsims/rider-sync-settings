@@ -41,6 +41,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -87,11 +90,6 @@
         <mark key="]" line="16" column="28" />
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/ServerTest.cs" timestamp="1583335109563">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/FluentAssertionsTest.cs" timestamp="1583378974283">
         <mark key="[" line="9" column="34" />
@@ -145,6 +143,11 @@
         <mark key="]" line="13" column="40" />
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Library/PackageCache/com.unity.inputsystem@1.0.0/InputSystem/Actions/InputActionState.cs" timestamp="1590225073088">
+        <mark key="[" line="2003" column="32" />
+        <mark key="]" line="2003" column="32" />
+        <mark key="." line="2003" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/MoqTest.cs" timestamp="1583378957479">
         <mark key="[" line="9" column="0" />
@@ -258,11 +261,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
