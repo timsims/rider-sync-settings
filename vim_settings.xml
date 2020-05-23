@@ -105,11 +105,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" timestamp="1590220159084">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="28" />
+      <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" timestamp="1590222761512">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Tests/Unit/ServerBuilder.cs" timestamp="1583397591747">
         <mark key="[" line="31" column="60" />
@@ -259,10 +259,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Serializable</text>
+        <text>in</text>
       </register>
       <register name="-" type="4">
-        <text>Serializable</text>
+        <text>in</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
