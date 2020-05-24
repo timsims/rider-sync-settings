@@ -44,6 +44,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -52,6 +58,12 @@
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Scripts/Server.cs" timestamp="1583397863767">
         <mark key="'" line="40" column="48" />
         <mark key="^" line="27" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Pacman-master/Assets/Scripts/PlayerController.cs" timestamp="1590313710202">
+        <mark key="[" line="91" column="68" />
+        <mark key="]" line="92" column="41" />
+        <mark key="^" line="92" column="41" />
+        <mark key="." line="92" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Scripts/Contracts/IApplication.cs" timestamp="1583398380085">
         <mark key="[" line="16" column="16" />
@@ -64,12 +76,6 @@
         <mark key="]" line="2" column="11" />
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/NewBehaviourScript.cs" timestamp="1583375775543">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Scripts/Test.cs" timestamp="1583396656598">
         <mark key="[" line="9" column="0" />
@@ -103,10 +109,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" timestamp="1590226734550">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" timestamp="1590314556920">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="34" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Tests/Unit/ServerBuilder.cs" timestamp="1583397591747">
         <mark key="[" line="31" column="60" />
@@ -156,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Tile/Cell.cs" />
       <jump line="71" column="4" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Tile/Cell.cs" />
       <jump line="46" column="34" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Tile/Node.cs" />
       <jump line="35" column="16" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Tile/Node.cs" />
@@ -256,48 +262,49 @@
       <jump line="120" column="23" filename="$USER_HOME$/Codes/repo/solstandard/SolStandard/Containers/Contexts/MapSelectContext.cs" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/Extensions/ArrayExtensions.cs" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/Extensions/ArrayExtensions.cs" />
+      <jump line="32" column="24" filename="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>//////</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>//////</text>
+        <text>rb.position + dir * speed * Time.fixedDeltaTime</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgYm9vbCBJc092ZXJsb2FkKCkK</text>
+        <text encoding="base64">ICAgICAgICByYi5Nb3ZlUG9zaXRpb24ocmIucG9zaXRpb24gKyBkaXIgKiBzcGVlZCAqIFRpbWUuZml4ZWREZWx0YVRpbWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL0RlYnVnLkxvZyhtb3ZlbWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVmFsaWQobmV4dERpcikpCiAgICAgICAgewogICAgICAgICAgICBkaXIgPSBuZXh0RGlyOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobW92ZW1lbnQpCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBWZWN0b3IyIHAgPSBWZWN0b3IyLk1vdmVUb3dhcmRzKHRyYW5zZm9ybS5wb3NpdGlvbiwgZGlyLCBzcGVlZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coInByZXNzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByYi5wb3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYi5Nb3ZlUG9zaXRpb24ocmIucG9zaXRpb24gKyBkaXIgKiBzcGVlZCAqIFRpbWUuZml4ZWREZWx0YVRpbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFVwZGF0ZSBpcyBjYWxsZWQgb25jZSBwZXIgZnJhbWUKICAgIHZvaWQgVXBkYXRlKCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZlbWVudC54ID0gSW5wdXQuR2V0QXhpc1JhdygiSG9yaXpvbnRhbCIpOwogICAgICAgIG1vdmVtZW50LnkgPSBJbnB1dC5HZXRBeGlzUmF3KCJWZXJ0aWNhbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBEZWJ1Zy5Mb2cobW92ZW1lbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoSW5wdXQuKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbGFzdE1vdmVtZW50ID0gbW92ZW1lbnQ7CiAgICAgICAgICAgIC8vIG1vdmVtZW50ID0gbmV3TW92ZW1lbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmxvYXQgc3BlZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
     </registers>
   </component>

@@ -1,0 +1,8 @@
+<keymap version="1" name="Sublime Text (Mac OS X) copy" parent="Sublime Text (Mac OS X)">
+  <action id="ActivateProjectToolWindow" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="FileChooser.GotoHome" />
+  <action id="GoToTab1">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
+</keymap>

@@ -81,6 +81,9 @@
   <action id="RiderUnitTestRunContextAction">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
