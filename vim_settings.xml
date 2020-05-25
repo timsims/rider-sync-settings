@@ -109,10 +109,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" timestamp="1590317301936">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" timestamp="1590378362299">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Tests/Unit/ServerBuilder.cs" timestamp="1583397591747">
         <mark key="[" line="31" column="60" />
@@ -267,43 +268,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>dir</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByYi5Nb3ZlUG9zaXRpb24ocmIucG9zaXRpb24gKyBkaXIgKiBzcGVlZCAqIFRpbWUuZml4ZWREZWx0YVRpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygidmFsaWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMiBkaXI7CiAgICAvLyBwcml2YXRlIFZlY3RvcjIgbGFzdE1vdmVtZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzdCA9IHJiLnBvc2l0aW9uICsgZGlyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiY29udGludWUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVmFsaWQobmV4dERpcikpCiAgICAgICAgewogICAgICAgICAgICBkaXIgPSBuZXh0RGlyOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBkZXN0ID0gcmIucG9zaXRpb24gKyBuZXh0RGlyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWZWN0b3IyIHAgPSBWZWN0b3IyLk1vdmVUb3dhcmRzKHRyYW5zZm9ybS5wb3NpdGlvbiwgZGlyLCBzcGVlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2cocG9zaXRpb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYi5wb3MK</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coZGVzdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByYi5Nb3ZlUG9zaXRpb24ocmIucG9zaXRpb24gKyBkaXIgKiBzcGVlZCAqIFRpbWUuZml4ZWREZWx0YVRpbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzdCA9IHJiLnBvc2l0aW9uICsgZGlyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5kCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEZWJ1Zy5Mb2cobW92ZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVmVjdG9yMiBkaXI7CiAgICAvLyBwcml2YXRlIFZlY3RvcjIgbGFzdE1vdmVtZW50Owo=</text>
       </register>
     </registers>
   </component>
