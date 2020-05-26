@@ -88,11 +88,10 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590462611050">
-        <mark key="[" line="30" column="32" />
-        <mark key="]" line="30" column="41" />
-        <mark key="." line="30" column="40" />
-        <mark key="^" line="30" column="41" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590463361181">
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/_/Stuff/GridPathfinding/GridPathfinding.cs" timestamp="1590407658045">
         <mark key="'" line="831" column="8" />
@@ -132,8 +131,11 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Scripts/Application.cs" timestamp="1583396374402">
-        <mark key="^" line="24" column="19" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" timestamp="1590463492702">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Scripts/Extensions/ArrayExtensions.cs" timestamp="1583397790611">
         <mark key="[" line="13" column="28" />
@@ -253,10 +255,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>GameObject</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>GameObject</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
@@ -265,31 +267,31 @@
         <text encoding="base64">ICAgICAgICAgICAgU3Bhd24oZW5lbXlQcmVmYWJzLCBuZXcgVmVjdG9yMig1MCwgMCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3Bhd24oZW5lbXlQcmVmYWJzLCBuZXcgVmVjdG9yMigtNTAsIDApKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3Bhd24oZW5lbXlQcmVmYWJzLCBuZXcgVmVjdG9yMigtNTAsIDApKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygidmFsaWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygidmFsaWQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdCA9IHJiLnBvc2l0aW9uICsgZGlyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
     </registers>
   </component>
