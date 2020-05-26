@@ -88,11 +88,11 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590465356317">
-        <mark key="[" line="40" column="57" />
-        <mark key="]" line="42" column="55" />
-        <mark key="." line="42" column="54" />
-        <mark key="^" line="42" column="55" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590473265487">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/_/Stuff/GridPathfinding/GridPathfinding.cs" timestamp="1590407658045">
         <mark key="'" line="831" column="8" />
@@ -132,12 +132,12 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" timestamp="1590469278102">
-        <mark key="'" line="18" column="22" />
-        <mark key="[" line="101" column="59" />
-        <mark key="]" line="101" column="59" />
-        <mark key="." line="101" column="58" />
-        <mark key="^" line="101" column="59" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" timestamp="1590473182995">
+        <mark key="'" line="65" column="73" />
+        <mark key="[" line="114" column="29" />
+        <mark key="]" line="114" column="56" />
+        <mark key="^" line="114" column="56" />
+        <mark key="." line="114" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Scripts/Extensions/ArrayExtensions.cs" timestamp="1583397790611">
         <mark key="[" line="13" column="28" />
@@ -152,7 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="4" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
       <jump line="49" column="8" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
       <jump line="44" column="8" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
@@ -252,48 +251,49 @@
       <jump line="15" column="38" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
       <jump line="47" column="26" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
       <jump line="17" column="22" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
+      <jump line="79" column="73" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmVteUNoYXJhY3Rlci5BdHRhY2socGxheWVyQ2hhcmFjdGVyLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5XYWl0aW5nRm9yUGxheWVyOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>enemyCharacter</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5pbWF0b3IuU2V0Qm9vbCgiQXR0YWNrIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF5ZXJDaGFyYWN0ZXIuQXR0YWNrKGVuZW15Q2hhcmFjdGVyLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5XYWl0aW5nRm9yUGxheWVyOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmVteUNoYXJhY3Rlci5BdHRhY2socGxheWVyQ2hhcmFjdGVyLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5XYWl0aW5nRm9yUGxheWVyOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5pbWF0b3IuU2V0Qm9vbCgiQXR0YWNrIiwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJvZmYiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5pbWF0b3IuU2V0Qm9vbCgiQXR0YWNrIiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2xpY2VCYWNrLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gU3RhcnQgaXMgY2FsbGVkIGJlZm9yZSB0aGUgZmlyc3QgZnJhbWUgdXBkYXRlCiAgICAgICAgcHJpdmF0ZSB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIGFuaW1hdG9yLlNldEJvb2woIkF0dGFjayIsIHRydWUpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNsaWNlVG9Qb3NpdGlvbihvcmlnaW5Qb3NpdGlvbiwgb25BdHRhY2tDb21wbGV0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFNsaWNlVG9Qb3NpdGlvbih0YXJnZXRQb3NpdGlvbiwgQXR0YWNrVGFyZ2V0KTsKICAgICAgICAgICAgICAgIHRyYW5zZm9ybS5wb3NpdGlvbiArPSAodGFyZ2V0UG9zaXRpb24gLSBHZXRQb3NpdGlvbigpKSAqIChzbGlkZVNwZWVkICogVGltZS5kZWx0YVRpbWUpOwogICAgICAgICAgICAgICAgZmxvYXQgcmVhY2hlZERpc3RhbmNlID0gMTBmOwogICAgICAgICAgICAgICAgaWYgKFZlY3RvcjMuRGlzdGFuY2UoR2V0UG9zaXRpb24oKSwgdGFyZ2V0UG9zaXRpb24pIDwgcmVhY2hlZERpc3RhbmNlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG9uU2xpY2VDb21wbGV0ZWQ/Lkludm9rZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFjdGlvbiBvblNsaWNlQ29tcGxldGVkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENoYXJhY3RlckJhdHRsZSB0YXJnZXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdHJhbnNmb3JtLnBvc2l0aW9uICs9IHRyYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN0YXRlID09IFN0YXRlLlNsaWNlQmFjaykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2xpY2VCYWNrKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g56e75Yqo5Yiw55uu5YmN5YmNCiAgICAgICAgICAgIC8vIOaJp+ihjOaUu+WHu+WKqOeUuwogICAgICAgICAgICAvLyDlm57liLDljp/mnaXnmoTkvY3nva4KICAgICAgICAgICAgLy8gYW5pbWF0b3IuU2V0Qm9vbCgiQXR0YWNrIiwgZmFsc2UpOwogICAgICAgICAgICAvLyBhbmltYXRvci5TZXRCb29sKCJBdHRhY2siLCBmYWxzZSk7CiAgICAgICAgICAgIERlYnVnLkxvZygiYXR0YWNrIik7CiAgICAgICAgICAgIC8vIG9uQXR0YWNrQ29tcGxldGU/Lkludm9rZSgpOwo=</text>
       </register>
     </registers>
   </component>
