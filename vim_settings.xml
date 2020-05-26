@@ -83,17 +83,22 @@
       <file name="$USER_HOME$/Codes/repo/solstandard/SolStandard/Containers/Contexts/MapSelectContext.cs" timestamp="1583893599464">
         <mark key="'" line="120" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/Scripts/Character_Base.cs" timestamp="1590398743628" />
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Tests/Unit/ServerTest.cs" timestamp="1583398014457">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590462611050">
+        <mark key="[" line="30" column="32" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="40" />
+        <mark key="^" line="30" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/_/Stuff/GridPathfinding/GridPathfinding.cs" timestamp="1590407658045">
         <mark key="'" line="831" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/TurnBattleSystem/Scripts/Character_Base.cs" timestamp="1590408150506">
-        <mark key="'" line="74" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/TurnBattleSystem/Scripts/Character_Base.cs" timestamp="1590408321860">
+        <mark key="'" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Pac-Man-Unity/Assets/Scripts/MovementController.cs" timestamp="1590379169673">
         <mark key="[" line="40" column="0" />
@@ -143,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="15" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Tile/GraphView.cs" />
       <jump line="75" column="5" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
       <jump line="43" column="46" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
       <jump line="47" column="27" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
@@ -243,48 +247,49 @@
       <jump line="831" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/_/Stuff/GridPathfinding/GridPathfinding.cs" />
       <jump line="74" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/TurnBattleSystem/Scripts/Character_Base.cs" />
       <jump line="9" column="17" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/_/Stuff/V_Animation/V_UnitAnimation.cs" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/TurnBattleSystem/Scripts/Character_Base.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygidmFsaWQiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>GameObject</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>GameObject</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygidmFsaWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3Bhd24oZW5lbXlQcmVmYWJzLCBuZXcgVmVjdG9yMig1MCwgMCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygidmFsaWQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdCA9IHJiLnBvc2l0aW9uICsgZGlyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3Bhd24oZW5lbXlQcmVmYWJzLCBuZXcgVmVjdG9yMigtNTAsIDApKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygiY29udGludWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXN0ID0gcmIucG9zaXRpb24gKyBuZXh0RGlyOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2cocG9zaXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coZGVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygidmFsaWQiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdCA9IHJiLnBvc2l0aW9uICsgZGlyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVzdCA9IHJiLnBvc2l0aW9uICsgZGlyOwo=</text>
       </register>
     </registers>
   </component>
