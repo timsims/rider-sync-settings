@@ -88,11 +88,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590473265487">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="22" column="16" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590483327029">
+        <mark key="'" line="18" column="8" />
+        <mark key="[" line="70" column="34" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="22" />
+        <mark key="^" line="71" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/_/Stuff/GridPathfinding/GridPathfinding.cs" timestamp="1590407658045">
         <mark key="'" line="831" column="8" />
@@ -132,12 +133,12 @@
         <mark key="^" line="27" column="12" />
         <mark key="." line="27" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" timestamp="1590473182995">
-        <mark key="'" line="65" column="73" />
-        <mark key="[" line="114" column="29" />
-        <mark key="]" line="114" column="56" />
-        <mark key="^" line="114" column="56" />
-        <mark key="." line="114" column="55" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" timestamp="1590481199576">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="93" column="41" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Silicon/Assets/Scripts/Extensions/ArrayExtensions.cs" timestamp="1583397790611">
         <mark key="[" line="13" column="28" />
@@ -152,19 +153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="8" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
-      <jump line="44" column="8" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
-      <jump line="83" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Test/Node.cs" />
-      <jump line="31" column="16" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Graph.cs" />
-      <jump line="53" column="47" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="22" column="15" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="190" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="47" column="25" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="32" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
       <jump line="53" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
       <jump line="28" column="4" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/Demo/TilemapMovementDemo.cs" />
       <jump line="85" column="4" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/Demo/TilemapMovementDemo.cs" />
@@ -252,48 +240,61 @@
       <jump line="47" column="26" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
       <jump line="17" column="22" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
       <jump line="79" column="73" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
+      <jump line="48" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="84" column="7" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="51" column="20" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="42" column="17" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="87" column="17" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" />
+      <jump line="124" column="53" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="127" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="120" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="99" column="11" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
+      <jump line="18" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmVteUNoYXJhY3Rlci5BdHRhY2socGxheWVyQ2hhcmFjdGVyLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5XYWl0aW5nRm9yUGxheWVyOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>TakeAction</text>
       </register>
       <register name="-" type="4">
-        <text>enemyCharacter</text>
+        <text>TakeAction</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF5ZXJDaGFyYWN0ZXIuQXR0YWNrKGVuZW15Q2hhcmFjdGVyLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5XYWl0aW5nRm9yUGxheWVyOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmVteUNoYXJhY3Rlci5BdHRhY2socGxheWVyQ2hhcmFjdGVyLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5XYWl0aW5nRm9yUGxheWVyOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjdG9yID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJvZmYiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2xpY2VCYWNrLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlID0gbmV4dFN0YXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gU3RhcnQgaXMgY2FsbGVkIGJlZm9yZSB0aGUgZmlyc3QgZnJhbWUgdXBkYXRlCiAgICAgICAgcHJpdmF0ZSB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIGFuaW1hdG9yLlNldEJvb2woIkF0dGFjayIsIHRydWUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5CdXN5Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFNsaWNlVG9Qb3NpdGlvbih0YXJnZXRQb3NpdGlvbiwgQXR0YWNrVGFyZ2V0KTsKICAgICAgICAgICAgICAgIHRyYW5zZm9ybS5wb3NpdGlvbiArPSAodGFyZ2V0UG9zaXRpb24gLSBHZXRQb3NpdGlvbigpKSAqIChzbGlkZVNwZWVkICogVGltZS5kZWx0YVRpbWUpOwogICAgICAgICAgICAgICAgZmxvYXQgcmVhY2hlZERpc3RhbmNlID0gMTBmOwogICAgICAgICAgICAgICAgaWYgKFZlY3RvcjMuRGlzdGFuY2UoR2V0UG9zaXRpb24oKSwgdGFyZ2V0UG9zaXRpb24pIDwgcmVhY2hlZERpc3RhbmNlKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG9uU2xpY2VDb21wbGV0ZWQ/Lkludm9rZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUgPSBTdGF0ZS5CdXN5OwogICAgICAgICAgICBhY3RvcnMuTW92ZU5leHQoKTsKICAgICAgICAgICAgdmFyIGFjdG9yID0gYWN0b3JzLkN1cnJlbnQ7CiAgICAgICAgICAgIGlmIChhY3RvciA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBzdGF0ZSA9IG5leHRTdGF0ZTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgdmFyIHJuZCA9IG5ldyBSYW5kb20oKTsKICAgICAgICAgICAgdmFyIG5leHQgPSBybmQuTmV4dCh0YXJnZXRzLkNvdW50KTsKICAgICAgICAgICAgdmFyIHRhcmdldCA9IHRhcmdldHNbbmV4dF07CiAgICAgICAgICAgIGFjdG9yLkF0dGFjayh0YXJnZXQsICgpID0+IHsgVGFrZUFjdGlvbihhY3RvcnMsIHRhcmdldHMsIG5leHRTdGF0ZSk7IH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFjdGlvbiBvblNsaWNlQ29tcGxldGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZygibnVsbCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIENoYXJhY3RlckJhdHRsZSB0YXJnZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0b3JzLk1vdmVOZXh0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g56e75Yqo5Yiw55uu5YmN5YmNCiAgICAgICAgICAgIC8vIOaJp+ihjOaUu+WHu+WKqOeUuwogICAgICAgICAgICAvLyDlm57liLDljp/mnaXnmoTkvY3nva4KICAgICAgICAgICAgLy8gYW5pbWF0b3IuU2V0Qm9vbCgiQXR0YWNrIiwgZmFsc2UpOwogICAgICAgICAgICAvLyBhbmltYXRvci5TZXRCb29sKCJBdHRhY2siLCBmYWxzZSk7CiAgICAgICAgICAgIERlYnVnLkxvZygiYXR0YWNrIik7CiAgICAgICAgICAgIC8vIG9uQXR0YWNrQ29tcGxldGU/Lkludm9rZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZW5lbXlDaGFyYWN0ZXJzLlJhbgo=</text>
       </register>
     </registers>
   </component>
