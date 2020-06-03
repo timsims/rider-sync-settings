@@ -55,39 +55,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/GridCombatSystem/Scripts/GridCombatSystem.cs" timestamp="1590500380028">
-        <mark key="'" line="288" column="17" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/PathfinderViewTest.cs" timestamp="1591172486001">
+        <mark key="[" line="20" column="51" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" timestamp="1590499616117">
-        <mark key="'" line="74" column="22" />
-        <mark key="[" line="70" column="34" />
-        <mark key="]" line="71" column="23" />
-        <mark key="." line="71" column="22" />
-        <mark key="^" line="71" column="23" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/GraphViewTest.cs" timestamp="1591173487907">
+        <mark key="[" line="70" column="63" />
+        <mark key="]" line="70" column="67" />
+        <mark key="^" line="70" column="67" />
+        <mark key="." line="70" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/DynamicMesh/Scripts/Testing.cs" timestamp="1591157149507">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="35" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="29" column="42" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Pathfinding/PathfindingDemo.cs" timestamp="1591172717998">
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="52" />
+        <mark key="^" line="48" column="52" />
+        <mark key="." line="48" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Pathfinder.cs" timestamp="1591169289345" />
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" timestamp="1591169506829">
-        <mark key="[" line="33" column="42" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" timestamp="1591172819481">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="16" />
+        <mark key="^" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/GridCombatSystem/Scripts/GameHandler_GridCombatSystem.cs" timestamp="1590500910996">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" timestamp="1591172877981">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1591169526424">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="18" column="46" />
-        <mark key="^" line="18" column="47" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/Tile/GraphViewTest.cs" timestamp="1591172596290">
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1591172923730">
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="33" />
+        <mark key="." line="50" column="32" />
+        <mark key="^" line="50" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/CameraControl.cs" timestamp="1591171072025">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Demos/PathfindingDemo.cs" timestamp="1591168655814">
         <mark key="'" line="73" column="0" />
@@ -96,17 +110,18 @@
         <mark key="." line="44" column="43" />
         <mark key="^" line="44" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/_/Stuff/GridPathfinding/GridPathfinding.cs" timestamp="1590407658045">
-        <mark key="'" line="831" column="8" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/HeatmapDemo.cs" timestamp="1591172493019">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="17" />
+        <mark key="." line="24" column="16" />
+        <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" timestamp="1591169350161">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="30" />
-        <mark key="^" line="14" column="30" />
-        <mark key="." line="14" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/TurnBattleSystem/Scripts/Character_Base.cs" timestamp="1590408321860">
-        <mark key="'" line="10" column="4" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" timestamp="1591173255010">
+        <mark key="'" line="34" column="38" />
+        <mark key="[" line="34" column="85" />
+        <mark key="]" line="34" column="86" />
+        <mark key="^" line="34" column="86" />
+        <mark key="." line="34" column="85" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraph.cs" timestamp="1591169264508">
         <mark key="[" line="6" column="0" />
@@ -114,15 +129,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/trash2/Assets/MeshRender.cs" timestamp="1591164372246">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" timestamp="1591169125874">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" timestamp="1591172447274">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="38" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="26" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/MeshRender.cs" timestamp="1591164573520">
         <mark key="[" line="27" column="17" />
@@ -130,18 +141,14 @@
         <mark key="." line="27" column="18" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" timestamp="1590481199576">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="93" column="41" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/GraphTest.cs" timestamp="1591172962690">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="42" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="49" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/MapDataTest.cs" />
-      <jump line="23" column="15" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/IMapMetaBuilder.cs" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/MapDataTest.cs" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/IMapMetaBuilder.cs" />
       <jump line="37" column="47" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/MapDataTest.cs" />
       <jump line="69" column="36" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/MapDataTest.cs" />
@@ -239,48 +246,51 @@
       <jump line="38" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="58" column="34" filename="$USER_HOME$/Projects/Unity/trash/Assets/DynamicMesh/Scripts/Testing.cs" />
       <jump line="97" column="77" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="103" column="35" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="145" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="34" column="38" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Int</text>
+        <text>Cell</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>Cell</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIOagueaNruS4lueVjOWdkOagh+iOt+WPluWbvuiwseiKgueCuQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJ3b3JsZFBvc2l0aW9uIj7kuJbnlYzlnZDmoIc8L3BhcmFtPgogICAgICAgIC8vLyA8cmV0dXJucz7oioLngrk8L3JldHVybnM+CiAgICAgICAgSU5vZGUgR2V0Tm9kZShWZWN0b3IzIHdvcmxkUG9zaXRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoVmlldyA9IG5ldyBHcmFwaFZpZXc8Q2VsbD4obmV3IGludFs1LCA1XSk7CiAgICAgICAgICAgIGdyYXBoVmlldy5HZXROb2RlKFZlY3RvcjMuemVybykuU2hvdWxkKCkuQmVPZlR5cGU8Q2VsbD4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyBwb3NpdGlvbiA9IGdyYXBoVmlldy5HZXROb2RlQ2VudGVyV29ybGQoVmVjdG9yM0ludC56ZXJvKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIC8vCiAgICAgICAvLyBtZXNoLnZlcnRpY2VzID0gdmVydGljZXM7CiAgICAgICAvLyBtZXNoLnV2ID0gdXY7CiAgICAgICAvLyBtZXNoLnRyaWFuZ2xlcyA9IHRyaWFuZ2xlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBDcmVhdGVUaWxlTWVzaCgpIHsKICAgICAgICBNZXNoIG1lc2ggPSBuZXcgTWVzaCgpOwoKICAgICAgICBpbnQgd2lkdGggPSA0OwogICAgICAgIGludCBoZWlnaHQgPSA0OwogICAgICAgIGZsb2F0IHRpbGVTaXplID0gMTA7CgogICAgICAgIFZlY3RvcjNbXSB2ZXJ0aWNlcyA9IG5ldyBWZWN0b3IzWzQgKiAod2lkdGggKiBoZWlnaHQpXTsKICAgICAgICBWZWN0b3IyW10gdXYgPSBuZXcgVmVjdG9yMls0ICogKHdpZHRoICogaGVpZ2h0KV07CiAgICAgICAgaW50W10gdHJpYW5nbGVzID0gbmV3IGludFs2ICogKHdpZHRoICogaGVpZ2h0KV07CgogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgd2lkdGg7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IGhlaWdodDsgaisrKSB7CiAgICAgICAgICAgICAgICBpbnQgaW5kZXggPSBpICogaGVpZ2h0ICsgajsKCiAgICAgICAgICAgICAgICB2ZXJ0aWNlc1tpbmRleCAqIDQgKyAwXSA9IG5ldyBWZWN0b3IzKHRpbGVTaXplICogaSwgICAgICAgICB0aWxlU2l6ZSAqIGopOwogICAgICAgICAgICAgICAgdmVydGljZXNbaW5kZXggKiA0ICsgMV0gPSBuZXcgVmVjdG9yMyh0aWxlU2l6ZSAqIGksICAgICAgICAgdGlsZVNpemUgKiAoaiArIDEpKTsKICAgICAgICAgICAgICAgIHZlcnRpY2VzW2luZGV4ICogNCArIDJdID0gbmV3IFZlY3RvcjModGlsZVNpemUgKiAoaSArIDEpLCAgIHRpbGVTaXplICogKGogKyAxKSk7CiAgICAgICAgICAgICAgICB2ZXJ0aWNlc1tpbmRleCAqIDQgKyAzXSA9IG5ldyBWZWN0b3IzKHRpbGVTaXplICogKGkgKyAxKSwgICB0aWxlU2l6ZSAqIGopOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB1dltpbmRleCAqIDQgKyAwXSA9IG5ldyBWZWN0b3IyKDAsIDApOwogICAgICAgICAgICAgICAgdXZbaW5kZXggKiA0ICsgMV0gPSBuZXcgVmVjdG9yMigwLCAxKTsKICAgICAgICAgICAgICAgIHV2W2luZGV4ICogNCArIDJdID0gbmV3IFZlY3RvcjIoMSwgMSk7CiAgICAgICAgICAgICAgICB1dltpbmRleCAqIDQgKyAzXSA9IG5ldyBWZWN0b3IyKDEsIDApOwoKICAgICAgICAgICAgICAgIHRyaWFuZ2xlc1tpbmRleCAqIDYgKyAwXSA9IGluZGV4ICogNCArIDA7CiAgICAgICAgICAgICAgICB0cmlhbmdsZXNbaW5kZXggKiA2ICsgMV0gPSBpbmRleCAqIDQgKyAxOwogICAgICAgICAgICAgICAgdHJpYW5nbGVzW2luZGV4ICogNiArIDJdID0gaW5kZXggKiA0ICsgMjsKCiAgICAgICAgICAgICAgICB0cmlhbmdsZXNbaW5kZXggKiA2ICsgM10gPSBpbmRleCAqIDQgKyAwOwogICAgICAgICAgICAgICAgdHJpYW5nbGVzW2luZGV4ICogNiArIDRdID0gaW5kZXggKiA0ICsgMjsKICAgICAgICAgICAgICAgIHRyaWFuZ2xlc1tpbmRleCAqIDYgKyA1XSA9IGluZGV4ICogNCArIDM7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIG1lc2gudmVydGljZXMgPSB2ZXJ0aWNlczsKICAgICAgICBtZXNoLnV2ID0gdXY7CiAgICAgICAgbWVzaC50cmlhbmdsZXMgPSB0cmlhbmdsZXM7CgogICAgICAgIEdldENvbXBvbmVudDxNZXNoRmlsdGVyPigpLm1lc2ggPSBtZXNoOwoKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgQ3JlYXRlQW5pbWF0aW9uTWVzaCgpIHsKICAgICAgICBNZXNoIG1lc2ggPSBuZXcgTWVzaCgpOwoKICAgICAgICBWZWN0b3IzW10gdmVydGljZXMgPSBuZXcgVmVjdG9yM1s0ICogMl07CiAgICAgICAgVmVjdG9yMltdIHV2ID0gbmV3IFZlY3RvcjJbNCAqIDJdOwogICAgICAgIGludFtdIHRyaWFuZ2xlcyA9IG5ldyBpbnRbNiAqIDJdOwoKCiAgICAgICAgLy8gUmVuZGVyIEJvZHkKICAgICAgICBmbG9hdCBib2R5U2l6ZSA9IDcwZjsKICAgICAgICBWZWN0b3IzIGJvZHlQb3NpdGlvbiA9IG5ldyBWZWN0b3IzKDAsIC01MCk7CiAgICAgICAgdmVydGljZXNbMF0gPSBib2R5UG9zaXRpb24gKyBuZXcgVmVjdG9yMyggMCwgIDApOwogICAgICAgIHZlcnRpY2VzWzFdID0gYm9keVBvc2l0aW9uICsgbmV3IFZlY3RvcjMoIDAsIGJvZHlTaXplKTsKICAgICAgICB2ZXJ0aWNlc1syXSA9IGJvZHlQb3NpdGlvbiArIG5ldyBWZWN0b3IzKGJvZHlTaXplLCBib2R5U2l6ZSk7CiAgICAgICAgdmVydGljZXNbM10gPSBib2R5UG9zaXRpb24gKyBuZXcgVmVjdG9yMyhib2R5U2l6ZSwgIDApOwoKICAgICAgICBWZWN0b3IyIGJvZHlQaXhlbHNMb3dlckxlZnQgPSBuZXcgVmVjdG9yMigwLCAyNTYpOwogICAgICAgIFZlY3RvcjIgYm9keVBpeGVsc1VwcGVyUmlnaHQgPSBuZXcgVmVjdG9yMigxMjgsIDM4NCk7CgogICAgICAgIGZsb2F0IHRleHR1cmVXaWR0aCA9IDUxMjsKICAgICAgICBmbG9hdCB0ZXh0dXJlSGVpZ2h0ID0gNTEyOwoKICAgICAgICB1dlswXSA9IG5ldyBWZWN0b3IyKGJvZHlQaXhlbHNMb3dlckxlZnQueCAvIHRleHR1cmVXaWR0aCwgIGJvZHlQaXhlbHNMb3dlckxlZnQueSAvIHRleHR1cmVIZWlnaHQpOwogICAgICAgIHV2WzFdID0gbmV3IFZlY3RvcjIoYm9keVBpeGVsc0xvd2VyTGVmdC54IC8gdGV4dHVyZVdpZHRoLCAgYm9keVBpeGVsc1VwcGVyUmlnaHQueSAvIHRleHR1cmVIZWlnaHQpOwogICAgICAgIHV2WzJdID0gbmV3IFZlY3RvcjIoYm9keVBpeGVsc1VwcGVyUmlnaHQueCAvIHRleHR1cmVXaWR0aCwgYm9keVBpeGVsc1VwcGVyUmlnaHQueSAvIHRleHR1cmVIZWlnaHQpOwogICAgICAgIHV2WzNdID0gbmV3IFZlY3RvcjIoYm9keVBpeGVsc1VwcGVyUmlnaHQueCAvIHRleHR1cmVXaWR0aCwgYm9keVBpeGVsc0xvd2VyTGVmdC55IC8gdGV4dHVyZUhlaWdodCk7CgogICAgICAgIHRyaWFuZ2xlc1swXSA9IDA7CiAgICAgICAgdHJpYW5nbGVzWzFdID0gMTsKICAgICAgICB0cmlhbmdsZXNbMl0gPSAyOwoKICAgICAgICB0cmlhbmdsZXNbM10gPSAwOwogICAgICAgIHRyaWFuZ2xlc1s0XSA9IDI7CiAgICAgICAgdHJpYW5nbGVzWzVdID0gMzsKCgoKICAgICAgICAvLyBSZW5kZXIgSGVhZAogICAgICAgIGZsb2F0IGhlYWRTaXplID0gNTVmOwogICAgICAgIFZlY3RvcjMgaGVhZFBvc2l0aW9uID0gbmV3IFZlY3RvcjMoNiwgLTEyKTsKCiAgICAgICAgdmVydGljZXNbNF0gPSBoZWFkUG9zaXRpb24gKyBuZXcgVmVjdG9yMyggMCwgIDApOwogICAgICAgIHZlcnRpY2VzWzVdID0gaGVhZFBvc2l0aW9uICsgbmV3IFZlY3RvcjMoIDAsIGhlYWRTaXplKTsKICAgICAgICB2ZXJ0aWNlc1s2XSA9IGhlYWRQb3NpdGlvbiArIG5ldyBWZWN0b3IzKGhlYWRTaXplLCBoZWFkU2l6ZSk7CiAgICAgICAgdmVydGljZXNbN10gPSBoZWFkUG9zaXRpb24gKyBuZXcgVmVjdG9yMyhoZWFkU2l6ZSwgIDApOwoKICAgICAgICBWZWN0b3IyIGhlYWRQaXhlbHNMb3dlckxlZnQgPSBuZXcgVmVjdG9yMigwLCAzODQpOwogICAgICAgIFZlY3RvcjIgaGVhZFBpeGVsc1VwcGVyUmlnaHQgPSBuZXcgVmVjdG9yMigxMjgsIDUxMik7CgogICAgICAgIHV2WzRdID0gbmV3IFZlY3RvcjIoaGVhZFBpeGVsc0xvd2VyTGVmdC54IC8gdGV4dHVyZVdpZHRoLCAgaGVhZFBpeGVsc0xvd2VyTGVmdC55IC8gdGV4dHVyZUhlaWdodCk7CiAgICAgICAgdXZbNV0gPSBuZXcgVmVjdG9yMihoZWFkUGl4ZWxzTG93ZXJMZWZ0LnggLyB0ZXh0dXJlV2lkdGgsICBoZWFkUGl4ZWxzVXBwZXJSaWdodC55IC8gdGV4dHVyZUhlaWdodCk7CiAgICAgICAgdXZbNl0gPSBuZXcgVmVjdG9yMihoZWFkUGl4ZWxzVXBwZXJSaWdodC54IC8gdGV4dHVyZVdpZHRoLCBoZWFkUGl4ZWxzVXBwZXJSaWdodC55IC8gdGV4dHVyZUhlaWdodCk7CiAgICAgICAgdXZbN10gPSBuZXcgVmVjdG9yMihoZWFkUGl4ZWxzVXBwZXJSaWdodC54IC8gdGV4dHVyZVdpZHRoLCBoZWFkUGl4ZWxzTG93ZXJMZWZ0LnkgLyB0ZXh0dXJlSGVpZ2h0KTsKCiAgICAgICAgdHJpYW5nbGVzWzZdID0gNDsKICAgICAgICB0cmlhbmdsZXNbN10gPSA1OwogICAgICAgIHRyaWFuZ2xlc1s4XSA9IDY7CgogICAgICAgIHRyaWFuZ2xlc1sgOV0gPSA0OwogICAgICAgIHRyaWFuZ2xlc1sxMF0gPSA2OwogICAgICAgIHRyaWFuZ2xlc1sxMV0gPSA3OwoKICAgICAgICBtZXNoLnZlcnRpY2VzID0gdmVydGljZXM7CiAgICAgICAgbWVzaC51diA9IHV2OwogICAgICAgIG1lc2gudHJpYW5nbGVzID0gdHJpYW5nbGVzOwoKICAgICAgICBmbG9hdCBoZWFkUG9zaXRpb25ZID0gLTEyOwogICAgICAgIGJvb2wgaGVhZFBvc2l0aW9uTW92ZURvd24gPSB0cnVlOwogICAgICAgIENvZGVNb25rZXkuVXRpbHMuRnVuY3Rpb25VcGRhdGVyLkNyZWF0ZSgoKSA9PiB7CiAgICAgICAgICAgIGlmIChoZWFkUG9zaXRpb25Nb3ZlRG93bikgewogICAgICAgICAgICAgICAgaGVhZFBvc2l0aW9uWSArPSAtNWYgKiBUaW1lLmRlbHRhVGltZTsKICAgICAgICAgICAgICAgIGlmIChoZWFkUG9zaXRpb25ZIDwgLTEzZikgewogICAgICAgICAgICAgICAgICAgIGhlYWRQb3NpdGlvbk1vdmVEb3duID0gZmFsc2U7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBoZWFkUG9zaXRpb25ZICs9ICs1ZiAqIFRpbWUuZGVsdGFUaW1lOwogICAgICAgICAgICAgICAgaWYgKGhlYWRQb3NpdGlvblkgPiAtMTBmKSB7CiAgICAgICAgICAgICAgICAgICAgaGVhZFBvc2l0aW9uTW92ZURvd24gPSB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CgogICAgICAgICAgICBoZWFkUG9zaXRpb24gPSBuZXcgVmVjdG9yMyg2LCBoZWFkUG9zaXRpb25ZKTsKCiAgICAgICAgICAgIHZlcnRpY2VzWzRdID0gaGVhZFBvc2l0aW9uICsgbmV3IFZlY3RvcjMoIDAsICAwKTsKICAgICAgICAgICAgdmVydGljZXNbNV0gPSBoZWFkUG9zaXRpb24gKyBuZXcgVmVjdG9yMyggMCwgaGVhZFNpemUpOwogICAgICAgICAgICB2ZXJ0aWNlc1s2XSA9IGhlYWRQb3NpdGlvbiArIG5ldyBWZWN0b3IzKGhlYWRTaXplLCBoZWFkU2l6ZSk7CiAgICAgICAgICAgIHZlcnRpY2VzWzddID0gaGVhZFBvc2l0aW9uICsgbmV3IFZlY3RvcjMoaGVhZFNpemUsICAwKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIG1lc2gudmVydGljZXMgPSB2ZXJ0aWNlczsKICAgICAgICB9KTsKCiAgICAgICAgR2V0Q29tcG9uZW50PE1lc2hGaWx0ZXI+KCkubWVzaCA9IG1lc2g7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0cmFyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgR3JhcGhDb3JlID0gUGF0aEZpbmRpbmcuR3JhcGg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIElFbnVtZXJhdG9yIG1vdmVtZW50Q29yb3V0aW5lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEZyb250U2l6ZSA9IDM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JhcGhWaWV3LkRyYXdHcmFwaCgpOwo=</text>
       </register>
     </registers>
   </component>
