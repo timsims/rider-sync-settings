@@ -118,7 +118,11 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/trash2/Assets/MeshRender.cs" timestamp="1591156709226" />
+      <file name="$USER_HOME$/Projects/Unity/trash2/Assets/MeshRender.cs" timestamp="1591164372246">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Extensions/ArrayExtensions.cs" timestamp="1590395682275">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="12" />
@@ -130,11 +134,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/MeshRender.cs" timestamp="1591157131708">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="25" column="31" />
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/MeshRender.cs" timestamp="1591164573520">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBattle.cs" timestamp="1590481199576">
         <mark key="'" line="16" column="0" />
@@ -261,7 +265,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIC8vCiAgICAgICAvLyBtZXNoLnZlcnRpY2VzID0gdmVydGljZXM7CiAgICAgICAvLyBtZXNoLnV2ID0gdXY7CiAgICAgICAvLyBtZXNoLnRyaWFuZ2xlcyA9IHRyaWFuZ2xlczsK</text>
+        <text encoding="base64">ICAgICAgIHRyaWFuZ2xlc1swXSA9IDA7CiAgICAgICB0cmlhbmdsZXNbMV0gPSAxOwogICAgICAgdHJpYW5nbGVzWzJdID0gMjsK</text>
       </register>
       <register name="-" type="4">
         <text>mesh.</text>
@@ -270,7 +274,7 @@
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIC8vIOWumueCuQogICAgICAgdmFyIHZlcnRpY2VzID0gbmV3IFZlY3RvcjNbM107CiAgICAgICB2YXIgdXYgPSBuZXcgVmVjdG9yMlszXTsKICAgICAgIHZhciB0cmlhbmdsZXMgPSBuZXcgaW50WzNdOwogICAgICAgCiAgICAgICB2ZXJ0aWNlc1swXSA9IG5ldyBWZWN0b3IzKDAsIDApOwogICAgICAgdmVydGljZXNbMV0gPSBuZXcgVmVjdG9yMygwLCAxMDApOwogICAgICAgdmVydGljZXNbMV0gPSBuZXcgVmVjdG9yMygxMDAsIDEwMCk7CgogICAgICAgdHJpYW5nbGVzWzBdID0gMDsKICAgICAgIHRyaWFuZ2xlc1sxXSA9IDE7CiAgICAgICB0cmlhbmdsZXNbMl0gPSAyOwogICAgICAgCiAgICAgICB1dlswXSA9IG5ldyBWZWN0b3IyKDAsIDApOwogICAgICAgdXZbMV0gPSBuZXcgVmVjdG9yMigwLCAxKTsKICAgICAgIHV2WzJdID0gbmV3IFZlY3RvcjIoMSwgMSk7CgogICAgICAgbWVzaC52ZXJ0aWNlcyA9IHZlcnRpY2VzOwogICAgICAgbWVzaC51diA9IHV2OwogICAgICAgbWVzaC50cmlhbmdsZXMgPSB0cmlhbmdsZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgIHRyaWFuZ2xlc1swXSA9IDA7CiAgICAgICB0cmlhbmdsZXNbMV0gPSAxOwogICAgICAgdHJpYW5nbGVzWzJdID0gMjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIC8vCiAgICAgICAvLyBtZXNoLnZlcnRpY2VzID0gdmVydGljZXM7CiAgICAgICAvLyBtZXNoLnV2ID0gdXY7CiAgICAgICAvLyBtZXNoLnRyaWFuZ2xlcyA9IHRyaWFuZ2xlczsK</text>
