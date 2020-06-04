@@ -55,35 +55,81 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/PathfinderViewTest.cs" timestamp="1591172486001">
-        <mark key="[" line="20" column="51" />
-        <mark key="]" line="20" column="57" />
-        <mark key="^" line="20" column="57" />
-        <mark key="." line="20" column="56" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/PathfinderViewTest.cs" timestamp="1591241069226">
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="40" column="78" />
+        <mark key="^" line="40" column="78" />
+        <mark key="." line="40" column="77" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/GraphViewTest.cs" timestamp="1591173487907">
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/GraphViewTest.cs" timestamp="1591238424250">
+        <mark key="'" line="61" column="8" />
         <mark key="[" line="70" column="63" />
         <mark key="]" line="70" column="67" />
         <mark key="^" line="70" column="67" />
         <mark key="." line="70" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Pathfinding/PathfindingDemo.cs" timestamp="1591172717998">
-        <mark key="[" line="48" column="48" />
-        <mark key="]" line="48" column="52" />
-        <mark key="^" line="48" column="52" />
-        <mark key="." line="48" column="51" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Pathfinding/PathfindingDemo.cs" timestamp="1591240934154">
+        <mark key="[" line="48" column="72" />
+        <mark key="]" line="48" column="74" />
+        <mark key="^" line="48" column="74" />
+        <mark key="." line="48" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" timestamp="1591174327841">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="4" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/HeatmapDemo.cs" timestamp="1591239341878">
+        <mark key="'" line="44" column="52" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" timestamp="1591172877981">
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/PathfinderTest.cs" timestamp="1591241144207">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="86" column="23" />
+        <mark key="]" line="86" column="27" />
+        <mark key="^" line="86" column="27" />
+        <mark key="." line="86" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" timestamp="1591241565110">
+        <mark key="'" line="72" column="15" />
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/INode.cs" timestamp="1591242428548">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Pathfinder.cs" timestamp="1591241117284" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" timestamp="1591242170343">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="12" />
+        <mark key="^" line="17" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" timestamp="1591242246415">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="53" column="19" />
+        <mark key="]" line="53" column="19" />
+        <mark key="^" line="47" column="20" />
+        <mark key="." line="53" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraph.cs" timestamp="1591169264508">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="22" column="33" />
+        <mark key="]" line="11" column="45" />
         <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Plugins/CodeMonkey/Utils/UtilsClass.cs" timestamp="1591238992126">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="247" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Mcp/Utils.cs" timestamp="1591239279885">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/Tile/GraphViewTest.cs" timestamp="1591172596290">
         <mark key="[" line="8" column="45" />
@@ -91,11 +137,30 @@
         <mark key="^" line="8" column="47" />
         <mark key="." line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1591172923730">
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="33" />
-        <mark key="." line="50" column="32" />
-        <mark key="^" line="50" column="33" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1591242207489">
+        <mark key="'" line="115" column="19" />
+        <mark key="[" line="137" column="19" />
+        <mark key="]" line="137" column="22" />
+        <mark key="." line="137" column="21" />
+        <mark key="^" line="137" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" timestamp="1591241864983">
+        <mark key="'" line="13" column="62" />
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="50" />
+        <mark key="." line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/MeshRender.cs" timestamp="1591164573520">
+        <mark key="[" line="27" column="17" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+        <mark key="^" line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/GraphTest.cs" timestamp="1591172962690">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="42" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/CameraControl.cs" timestamp="1591171072025">
         <mark key="[" line="17" column="0" />
@@ -110,68 +175,8 @@
         <mark key="." line="44" column="43" />
         <mark key="^" line="44" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/HeatmapDemo.cs" timestamp="1591172493019">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="17" />
-        <mark key="." line="24" column="16" />
-        <mark key="^" line="24" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" timestamp="1591173255010">
-        <mark key="'" line="34" column="38" />
-        <mark key="[" line="34" column="85" />
-        <mark key="]" line="34" column="86" />
-        <mark key="^" line="34" column="86" />
-        <mark key="." line="34" column="85" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraph.cs" timestamp="1591169264508">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" timestamp="1591172447274">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="38" />
-        <mark key="." line="26" column="37" />
-        <mark key="^" line="26" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/MeshRender.cs" timestamp="1591164573520">
-        <mark key="[" line="27" column="17" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="14" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/GraphTest.cs" timestamp="1591172962690">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="42" />
-        <mark key="^" line="14" column="38" />
-        <mark key="." line="49" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/IMapMetaBuilder.cs" />
-      <jump line="37" column="47" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/MapDataTest.cs" />
-      <jump line="69" column="36" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/Tile/MapDataTest.cs" />
-      <jump line="70" column="32" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="31" column="15" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Pathfinder.cs" />
-      <jump line="132" column="18" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Graph.cs" />
-      <jump line="77" column="27" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="77" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Graph.cs" />
-      <jump line="35" column="27" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="54" column="26" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="63" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Graph.cs" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Tests/Unit/PathFinding/GraphViewTest.cs" />
-      <jump line="14" column="10" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Contracts/INode.cs" />
-      <jump line="55" column="26" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Contracts/INode.cs" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="60" column="62" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/PathfinderView.cs" />
-      <jump line="82" column="1" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Cell.cs" />
-      <jump line="47" column="8" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Cell.cs" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
-      <jump line="105" column="31" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Graph.cs" />
-      <jump line="104" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Graph.cs" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Cell.cs" />
-      <jump line="91" column="39" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Node.cs" />
       <jump line="48" column="24" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/Demo/TilemapMovementDemo.cs" />
       <jump line="59" column="47" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/Demo/TilemapMovementDemo.cs" />
       <jump line="38" column="49" filename="$USER_HOME$/Projects/Unity/Magellan/Assets/Scripts/PathFinding/Contracts/INode.cs" />
@@ -249,48 +254,71 @@
       <jump line="103" column="35" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
       <jump line="145" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
       <jump line="34" column="38" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="61" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/GraphViewTest.cs" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Tests/Unit/PathFinding/PathfinderTest.cs" />
+      <jump line="148" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="44" column="52" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/HeatmapDemo.cs" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/INode.cs" />
+      <jump line="62" column="12" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="95" column="11" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" />
+      <jump line="134" column="59" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="74" column="15" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="14" column="40" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="66" column="62" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" />
+      <jump line="162" column="41" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="134" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="105" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="72" column="15" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
+      <jump line="18" column="36" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="150" column="22" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="93" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" />
+      <jump line="115" column="19" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/INode.cs" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/INode.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Cell</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Cell</text>
+        <text encoding="base64">KFQpIA==</text>
       </register>
       <register name="/" type="4">
         <text>m_Jumping</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoVmlldyA9IG5ldyBHcmFwaFZpZXc8Q2VsbD4obmV3IGludFs1LCA1XSk7CiAgICAgICAgICAgIGdyYXBoVmlldy5HZXROb2RlKFZlY3RvcjMuemVybykuU2hvdWxkKCkuQmVPZlR5cGU8Q2VsbD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vZGUgPSBHZXROb2RlKHdvcmxkUG9zaXRpb24pOwoKICAgICAgICAgICAgcmV0dXJuIG5vZGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyBwb3NpdGlvbiA9IGdyYXBoVmlldy5HZXROb2RlQ2VudGVyV29ybGQoVmVjdG9yM0ludC56ZXJvKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIElOb2RlIEdldE5vZGUoVmVjdG9yMyB3b3JsZFBvc2l0aW9uLCBBY3Rpb248VD4gYWN0aW9uLCBib29sIGlnbm9yZU51bGwgPSB0cnVlKQogICAgICAgIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyYXBoID0gbmV3IEdyYXBoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnQuUAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgR3JhcGhDb3JlID0gUGF0aEZpbmRpbmcuR3JhcGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9InNob3VsZERyYXciPjwvcGFyYW0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIOe7mOWItgogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJzaG91bGREcmF3Ij48L3BhcmFtPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub2RlLnZhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ3JhcGhWaWV3LkRyYXdHcmFwaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHdvcmxkUG9zaXRpb247Cg==</text>
       </register>
     </registers>
   </component>
