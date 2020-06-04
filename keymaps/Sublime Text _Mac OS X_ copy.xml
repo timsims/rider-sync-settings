@@ -61,6 +61,8 @@
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
+  <action id="Refresh" />
+  <action id="Rerun" />
   <action id="ShowContent" />
   <action id="ShowUsages" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
