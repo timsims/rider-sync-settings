@@ -65,11 +65,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundManager.cs" timestamp="1591684836659">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="37" />
-        <mark key="^" line="14" column="37" />
-        <mark key="." line="14" column="36" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundManager.cs" timestamp="1591687668837">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="45" />
+        <mark key="^" line="26" column="45" />
+        <mark key="." line="26" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" timestamp="1591254993507">
         <mark key="'" line="58" column="0" />
@@ -77,12 +77,6 @@
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/HeatNode.cs" timestamp="1591252782542">
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="56" />
-        <mark key="." line="14" column="55" />
-        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1591255018650">
         <mark key="'" line="80" column="8" />
@@ -100,6 +94,12 @@
       <file name="$USER_HOME$/Projects/Unity/topdown/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSingletons/MMPersistentSingleton.cs" timestamp="1591326470994">
         <mark key="'" line="33" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnEnd.cs" timestamp="1591687085500">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/MeshVisual.cs" timestamp="1591256311891">
         <mark key="'" line="42" column="45" />
         <mark key="[" line="55" column="20" />
@@ -107,22 +107,20 @@
         <mark key="." line="56" column="26" />
         <mark key="^" line="56" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnBusy.cs" timestamp="1591687134371">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="9" />
+        <mark key="^" line="11" column="35" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/topdown/Assets/TopDownEngine/Common/Scripts/Characters/CharacterAbilities/CharacterDash2D.cs" timestamp="1591327686104">
         <mark key="'" line="177" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/HeatmapDemo.cs" timestamp="1591253627138">
-        <mark key="'" line="28" column="16" />
-        <mark key="[" line="54" column="55" />
-        <mark key="]" line="54" column="56" />
-        <mark key="." line="54" column="56" />
-        <mark key="^" line="49" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" timestamp="1591254933565">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="40" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnStart.cs" timestamp="1591687142265">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/topdown/Assets/TopDownEngine/Common/Scripts/Characters/CharacterAbilities/CharacterAbility.cs" timestamp="1591327708130">
         <mark key="'" line="371" column="8" />
@@ -133,16 +131,17 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundBusy.cs" timestamp="1591684982253">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundBusy.cs" timestamp="1591687619914">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/StateMachine.cs" timestamp="1591685120555">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="45" column="33" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/StateMachine.cs" timestamp="1591687499036">
+        <mark key="[" line="36" column="47" />
+        <mark key="]" line="36" column="47" />
+        <mark key="." line="36" column="47" />
+        <mark key="^" line="36" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/IState.cs" timestamp="1591683331973">
         <mark key="[" line="6" column="5" />
@@ -256,44 +255,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Complete</text>
       </register>
       <register name="-" type="4">
-        <text>currentState.GetType().ToString()</text>
+        <text>Complete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVidWcuTG9nKCQie2N1cnJlbnRTdGF0ZS5HZXRUeXBlKCkuVG9TdHJpbmcoKX0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVNYWNoaW5lLk5leHQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZW9mKGN1cnJlbnRTdGF0ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCQie2N1cnJlbnRTdGF0ZS5HZXRUeXBlKCkuVG9TdHJpbmcoKX0iKTsK</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIFR5cGUgVGljaygpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCQie2N1cnJlbnRTdGF0ZS5HZXRUeXBlKCkuVG9TdHJpbmcoKX0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCQiYnVzeSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGVNYWNoaW5lID0gR2V0Q29tcG9uZW50PFN0YXRlTWFjaGluZT4oKTsKCiAgICAgICAgICAgIHN0YXRlTWFjaGluZS5TZXRTdGF0ZXMobmV3IERpY3Rpb25hcnk8VHlwZSwgSVN0YXRlPigpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHt0eXBlb2YoUm91bmRTdGFydCksIG5ldyBSb3VuZFN0YXJ0KCl9LAogICAgICAgICAgICAgICAge3R5cGVvZihSb3VuZEJ1c3kpLCBuZXcgUm91bmRCdXN5KCl9LAogICAgICAgICAgICAgICAge3R5cGVvZihSb3VuZENvbXBsZXRlKSwgbmV3IFJvdW5kQ29tcGxldGUoKX0sCiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCQie2N1cnJlbnRTdGF0ZS5HZXRUeXBlKCkuVG9TdHJpbmcoKX0iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCQie2N1cnJlbnRTdGF0ZS5HZXRUeXBlKCkuVG9TdHJpbmcoKX0iKTsK</text>
       </register>
     </registers>
   </component>
