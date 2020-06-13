@@ -56,57 +56,78 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Unity/topdown/Assets/TopDownEngine/Common/Scripts/Managers/InputManager.cs" timestamp="1591330483791">
-        <mark key="'" line="51" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnBusy.cs" timestamp="1591769569244">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/topdown/Assets/TopDownEngine/Common/Scripts/Characters/CharacterAbilities/CharacterDash2D.cs" timestamp="1591327686104">
-        <mark key="'" line="177" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/StateMachineManager.cs" timestamp="1591763838604">
         <mark key="[" line="71" column="9" />
         <mark key="]" line="69" column="32" />
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundComplete.cs" timestamp="1591693048017">
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/BaseGameEvent.cs" timestamp="1592049790709">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundManager.cs" timestamp="1591760582890">
-        <mark key="'" line="22" column="0" />
-        <mark key="^" line="20" column="72" />
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/VoidEvent.cs" timestamp="1592050348804">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="80" />
+        <mark key="." line="4" column="79" />
+        <mark key="^" line="4" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnStart.cs" timestamp="1591692999249">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="12" />
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/UnityVoidEvent.cs" timestamp="1592050222269">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/topdown/Assets/TopDownEngine/Common/Scripts/Characters/CharacterAbilities/CharacterAbility.cs" timestamp="1591327708130">
-        <mark key="'" line="371" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/StateMachine.cs" timestamp="1591683153664">
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/PublishListenerTest.cs" timestamp="1592050873602">
         <mark key="[" line="5" column="1" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="19" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="3" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Void.cs" timestamp="1592050060746">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/BaseGameEventListener.cs" timestamp="1592049951749">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="39" />
+        <mark key="." line="44" column="38" />
+        <mark key="^" line="44" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/PublisherTest.cs" timestamp="1592050994535">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="14" column="27" />
+        <mark key="." line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/ListenerTest.cs" timestamp="1592051074969">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnBusy.cs" timestamp="1591769569244">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/IGameEventListener.cs" timestamp="1592049215601">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="51" />
+        <mark key="^" line="0" column="45" />
+        <mark key="." line="0" column="51" />
       </file>
       <file name="/" timestamp="1591769622062">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundBusy.cs" timestamp="1591757993667">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="38" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="25" column="37" />
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/BaseGameEventListener.cs" timestamp="1592050706051">
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnManager.cs" timestamp="1591765945645">
         <mark key="'" line="24" column="50" />
@@ -115,28 +136,25 @@
         <mark key="^" line="36" column="58" />
         <mark key="." line="36" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/VoidEventListener.cs" timestamp="1592050448185">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="86" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/State.cs" timestamp="1591765869310">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="40" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundStart.cs" timestamp="1591693055308">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/GameEvent.cs" timestamp="1592048911750">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="34" />
       </file>
       <file name="/Dummy.filelayout" timestamp="1591769874191">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/topdown/Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSingletons/MMPersistentSingleton.cs" timestamp="1591326470994">
-        <mark key="'" line="33" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnEnd.cs" timestamp="1591693007990">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/StateMachine.cs" timestamp="1591763581142">
         <mark key="'" line="76" column="0" />
@@ -144,13 +162,6 @@
         <mark key="]" line="33" column="9" />
         <mark key="^" line="23" column="8" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnComplete.cs" timestamp="1591693001332">
-        <mark key="'" line="6" column="1" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/IState.cs" timestamp="1591764190005">
         <mark key="[" line="6" column="5" />
@@ -160,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
       <jump line="99" column="11" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
       <jump line="18" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
       <jump line="74" column="22" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
@@ -260,48 +270,49 @@
       <jump line="22" column="21" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/StateMachine.cs" />
       <jump line="77" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/StateMachine.cs" />
       <jump line="24" column="50" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnManager.cs" />
+      <jump line="6" column="8" filename="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/GameEvent.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>throw new NotImplementedException();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIOiuvue9rueKtuaAgeWIl+ihqAogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJzdGF0ZXMiPjwvcGFyYW0+CiAgICAgICAgcHVibGljIHZvaWQgU2V0U3RhdGVzKERpY3Rpb25hcnk8VHlwZSwgSVN0YXRlPiBzdGF0ZXMpCiAgICAgICAgewogICAgICAgICAgICBhdmFpbGFibGVTdGF0ZXMgPSBzdGF0ZXM7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ2FtZUV2ZW50ICE9IG51bGwpCiAgICAgICAgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVHVybkJ1c3koR2FtZU9iamVjdCBnYW1lT2JqZWN0KSA6IGJhc2UoZ2FtZU9iamVjdCkKICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgR2FtZU9iamVjdCBnYW1lT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBTdGF0ZShHYW1lT2JqZWN0IGdhbWVPYmplY3QpCiAgICAgICAgewogICAgICAgICAgIHQgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTdGFydCBpcyBjYWxsZWQgYmVmb3JlIHRoZSBmaXJzdCBmcmFtZSB1cGRhdGUKICAgICAgICB2b2lkIFN0YXJ0KCkKICAgICAgICB7CiAgICAgICAgCiAgICAgICAgfQoKICAgICAgICAvLyBVcGRhdGUgaXMgY2FsbGVkIG9uY2UgcGVyIGZyYW1lCiAgICAgICAgdm9pZCBVcGRhdGUoKQogICAgICAgIHsKICAgICAgICAKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodW5pdHlFdmVudFJlc3BvbnNlICE9IG51bGwpCiAgICAgICAgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnYW1lRXZlbnQ/LlJlZ2lzdGVyTGlzdGVuZXIodGhpcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIOWIpOaWreaYr+WQpumcgOimgei9rOenu+WIsOaWsOeahOeKtuaAgQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxwYXJhbSBuYW1lPSJuZXdTdGF0ZSI+PC9wYXJhbT4KICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgogICAgICAgIHByaXZhdGUgYm9vbCBTaG91bGRTd2l0Y2hUb05ld1N0YXRlKFR5cGUgbmV3U3RhdGUpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbmV3U3RhdGUgIT0gbnVsbCAmJiBuZXdTdGF0ZSAhPSBDdXJyZW50U3RhdGUuR2V0VHlwZSgpOwogICAgICAgIH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyDovaznp7vnirbmgIEKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cGFyYW0gbmFtZT0ibmV3U3RhdGUiPjwvcGFyYW0+CiAgICAgICAgcHJpdmF0ZSB2b2lkIFN3aXRjaFRvTmV3U3RhdGUoVHlwZSBuZXdTdGF0ZSkKICAgICAgICB7CiAgICAgICAgICAgIHZhciBzdGF0ZSA9IGF2YWlsYWJsZVN0YXRlc1tuZXdTdGF0ZV07CiAgICAgICAgICAgIEN1cnJlbnRTdGF0ZSA9IHN0YXRlOwogICAgICAgICAgICBzdGF0ZS5SZWZyZXNoKCk7CiAgICAgICAgICAgIE9uU3RhdGVDaGFuZ2VkPy5JbnZva2Uoc3RhdGUpOwogICAgICAgIH0KCiAgICAgICAgLy8vIDxzdW1tYXJ5PgogICAgICAgIC8vLyDojrflj5bpu5jorqTnirbmgIEKICAgICAgICAvLy8gPC9zdW1tYXJ5PgogICAgICAgIC8vLyA8cmV0dXJucz48L3JldHVybnM+CiAgICAgICAgcHJpdmF0ZSBJU3RhdGUgR2V0RGVmYXVsdFN0YXRlKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBhdmFpbGFibGVTdGF0ZXMuVmFsdWVzLkZpcnN0KCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBPCiAgICB7CiAgICAgICAgZ2FtZUV2ZW50Py5SZWdpc3Rlckxpc3RlbmVyKHRoaXMpOwogICAgfQo=</text>
       </register>
     </registers>
   </component>
