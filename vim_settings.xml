@@ -56,18 +56,68 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/VoidEventListener.cs" timestamp="1592053063608" />
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/BaseGameEvent.cs" timestamp="1592049790709">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="34" />
-        <mark key="^" line="28" column="34" />
-        <mark key="." line="28" column="33" />
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/PublisherTest.cs" timestamp="1592053186804">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="18" column="25" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/ListenerTest.cs" timestamp="1592053273628">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="22" />
+        <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnBusy.cs" timestamp="1592120744340">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="12" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundComplete.cs" timestamp="1592205168577">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/UnityIntEvent.cs" timestamp="1592053126955">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnStart.cs" timestamp="1592205188105">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/IntEventListener.cs" timestamp="1592052581866">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="82" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/BaseGameEventListener.cs" timestamp="1592051411138">
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnManager.cs" timestamp="1592120798352">
+        <mark key="'" line="36" column="57" />
+        <mark key="[" line="36" column="48" />
+        <mark key="]" line="36" column="58" />
+        <mark key="^" line="36" column="58" />
+        <mark key="." line="36" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/VoidEventListener.cs" timestamp="1592050448185">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="86" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundBusy.cs" timestamp="1592205178050">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/IntEvent.cs" timestamp="1592052656361">
         <mark key="[" line="4" column="43" />
@@ -81,6 +131,11 @@
         <mark key="." line="4" column="79" />
         <mark key="^" line="4" column="80" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundStart.cs" timestamp="1592205183561">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/UnityVoidEvent.cs" timestamp="1592050222269">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="20" />
@@ -93,80 +148,29 @@
         <mark key="." line="6" column="3" />
         <mark key="^" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnEnd.cs" timestamp="1592205160972">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Void.cs" timestamp="1592050060746">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/BaseGameEventListener.cs" timestamp="1592049951749">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="39" />
-        <mark key="." line="44" column="38" />
-        <mark key="^" line="44" column="39" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnComplete.cs" timestamp="1592205193532">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/PublisherTest.cs" timestamp="1592053186804">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-        <mark key="." line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/ListenerTest.cs" timestamp="1592053273628">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnBusy.cs" timestamp="1591769569244">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/IGameEventListener.cs" timestamp="1592049215601">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="51" />
-        <mark key="^" line="0" column="45" />
-        <mark key="." line="0" column="51" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/UnityIntEvent.cs" timestamp="1592053126955">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="20" />
-      </file>
-      <file name="/" timestamp="1591769622062">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/BaseGameEventListener.cs" timestamp="1592051411138">
-        <mark key="]" line="24" column="19" />
-        <mark key="^" line="24" column="19" />
-        <mark key="." line="24" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnManager.cs" timestamp="1591765945645">
-        <mark key="'" line="24" column="50" />
-        <mark key="[" line="36" column="48" />
-        <mark key="]" line="36" column="58" />
-        <mark key="^" line="36" column="58" />
-        <mark key="." line="36" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/VoidEventListener.cs" timestamp="1592050448185">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="56" />
-        <mark key="." line="4" column="56" />
-        <mark key="^" line="4" column="86" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/GameEvent.cs" timestamp="1592048911750">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="34" />
-      </file>
-      <file name="/Dummy.filelayout" timestamp="1591769874191">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/FSM/IState.cs" timestamp="1592120729414">
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="22" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/BattleHandler.cs" />
       <jump line="136" column="0" filename="$USER_HOME$/Projects/Unity/trash/Assets/GridCombatSystem/Scripts/GameHandler_GridCombatSystem.cs" />
       <jump line="288" column="17" filename="$USER_HOME$/Projects/Unity/trash/Assets/GridCombatSystem/Scripts/GridCombatSystem.cs" />
       <jump line="120" column="0" filename="$USER_HOME$/Projects/Unity/trash/Assets/GridCombatSystem/Scripts/GameHandler_GridCombatSystem.cs" />
@@ -266,15 +270,16 @@
       <jump line="6" column="8" filename="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/GameEvent.cs" />
       <jump line="7" column="42" filename="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/UnityIntEvent.cs" />
       <jump line="6" column="51" filename="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/IntEventListener.cs" />
+      <jump line="36" column="57" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>onClick</text>
+        <text>throw new NotImplementedException();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
@@ -283,10 +288,10 @@
         <text encoding="base64">ICAgIFtTZXJpYWxpemVGaWVsZF0KICAgIHByaXZhdGUgVm9pZEV2ZW50IG9uQ2xpY2s7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBEZWJ1Zwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
