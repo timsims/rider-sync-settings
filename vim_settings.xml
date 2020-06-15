@@ -73,6 +73,13 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" timestamp="1592211940615">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="34" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="100" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/IntEventListener.cs" timestamp="1592052581866">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -91,12 +98,12 @@
         <mark key="." line="4" column="77" />
         <mark key="^" line="4" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1592207456987">
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1592212049859">
         <mark key="'" line="87" column="23" />
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="32" />
-        <mark key="^" line="56" column="27" />
-        <mark key="." line="36" column="32" />
+        <mark key="[" line="85" column="13" />
+        <mark key="]" line="85" column="12" />
+        <mark key="^" line="85" column="12" />
+        <mark key="." line="85" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/RoundStart.cs" timestamp="1592205183561">
         <mark key="[" line="9" column="12" />
@@ -166,12 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="4" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Demos/PathfindingDemo.cs" />
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="122" column="7" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Demos/PathfindingDemo.cs" />
-      <jump line="31" column="7" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Demos/PathfindingDemo.cs" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Demos/PathfindingDemo.cs" />
       <jump line="38" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="58" column="34" filename="$USER_HOME$/Projects/Unity/trash/Assets/DynamicMesh/Scripts/Testing.cs" />
       <jump line="97" column="77" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
@@ -266,48 +267,54 @@
       <jump line="22" column="20" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/MovementController.cs" />
       <jump line="21" column="34" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/MovementController.cs" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/MovementController.cs" />
+      <jump line="47" column="7" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
+      <jump line="50" column="28" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
+      <jump line="35" column="12" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
+      <jump line="99" column="63" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
+      <jump line="41" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRlID0gYXZhaWxhYmxlU3RhdGVzW25ld1N0YXRlXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JhcGhWaWV3LkRyYXdHcmFwaCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>width</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJzdG9wIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JhcGhWaWV3LkRyYXdHcmFwaCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRlID0gYXZhaWxhYmxlU3RhdGVzW25ld1N0YXRlXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyID0gZ2FtZU9iamVjdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKG1vdmVtZW50Lk1vdmVkKTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNb3ZlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aGZpbmRlclZpZXcgPSBuZXcgUGF0aGZpbmRlclZpZXc8Tm9kZT4oKTsKCiAgICAgICAgICAgIG1vdmVtZW50Q29udHJvbGxlciA9IEdldENvbXBvbmVudDxNb3ZlbWVudENvbnRyb2xsZXI+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJzdG9wIDIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgewogICAgICAgICAgICBEZWJ1Zy5Mb2coInN0b3AiKTsKICAgICAgICAgICAgU3RvcE1vdmluZygpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aGZpbmRlclZpZXcuSW5pdChncmFwaFZpZXcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEZWJ1Zy5Mb2coInN0b3AiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRlID0gYXZhaWxhYmxlU3RhdGVzW25ld1N0YXRlXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKG1vdmVtZW50Lk1vdmVkKTsKICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGVidWcuTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb3ZlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbCBtb3ZlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nKCJzdG9wIDIiKTsK</text>
       </register>
     </registers>
   </component>
