@@ -73,8 +73,8 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" timestamp="1592211940615">
-        <mark key="'" line="40" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" timestamp="1592212095421">
+        <mark key="'" line="56" column="12" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="34" />
         <mark key="." line="56" column="0" />
@@ -173,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="58" column="34" filename="$USER_HOME$/Projects/Unity/trash/Assets/DynamicMesh/Scripts/Testing.cs" />
       <jump line="97" column="77" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="103" column="35" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Graph.cs" />
@@ -273,6 +272,7 @@
       <jump line="38" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
       <jump line="99" column="63" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
       <jump line="41" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
+      <jump line="56" column="12" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
