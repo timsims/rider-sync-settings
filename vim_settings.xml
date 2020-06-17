@@ -73,12 +73,12 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" timestamp="1592221505463">
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathfindingBehaviour.cs" timestamp="1592224118008">
         <mark key="'" line="50" column="42" />
-        <mark key="[" line="96" column="61" />
-        <mark key="]" line="96" column="58" />
-        <mark key="^" line="96" column="58" />
-        <mark key="." line="96" column="57" />
+        <mark key="[" line="96" column="15" />
+        <mark key="]" line="96" column="20" />
+        <mark key="^" line="96" column="20" />
+        <mark key="." line="96" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/IntEventListener.cs" timestamp="1592052581866">
         <mark key="[" line="6" column="0" />
@@ -277,17 +277,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK546p5a626LCD5pW05Yiw6IqC54K55Lit6Ze0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHggPSBNYXRoZi5GbG9vclRvSW50KCh3b3JsZFBvc2l0aW9uIC0gb3JpZ2luUG9zaXRpb24pLnggLyBjZWxsU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZ3JhcGhWaWV3ID0gR2V0R3JhcGhWaWV3KCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK546p5a626LCD5pW05Yiw6IqC54K55Lit6Ze0Cg==</text>
