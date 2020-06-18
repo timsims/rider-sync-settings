@@ -59,11 +59,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E680FFA-6D7E-4E5B-AC0A-59A8559254AB/0e/d1c69222/LogManager.cs" timestamp="1592372412617">
         <mark key="'" line="205" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Pathfinding/PathfindingDemo.cs" timestamp="1592207116765">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="36" column="54" />
-      </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/MovementController.cs" timestamp="1592465239667">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="55" column="12" />
@@ -97,11 +92,10 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/xcom/PathfindingBehaviour.cs" timestamp="1592208258719">
-        <mark key="[" line="39" column="73" />
-        <mark key="]" line="39" column="79" />
-        <mark key="." line="39" column="78" />
-        <mark key="^" line="39" column="79" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" timestamp="1592477564145">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Codes/repo/solstandard/SolStandard/GameDriver.cs" timestamp="1592373953705">
         <mark key="'" line="270" column="12" />
@@ -120,18 +114,14 @@
         <mark key="^" line="85" column="12" />
         <mark key="." line="85" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnComplete.cs" timestamp="1592205193532">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592373569017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnBusy.cs" timestamp="1592208994509">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/TurnBusy.cs" timestamp="1592477431531">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Cell.cs" timestamp="1592465342221">
         <mark key="[" line="68" column="12" />
@@ -264,10 +254,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnJlbnQgPSBnb2FsOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGlsZW1hcC5jZWxsQm91bmRzOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>PathfindingBehaviour</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
@@ -276,31 +266,31 @@
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIOivpeiKgueCueaYr+WQpuWPr+mAmui/hwogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxyZXR1cm5zPjwvcmV0dXJucz4KICAgICAgICBib29sIElzUGFzc2FibGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnJlbnQgPSBnb2FsOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGlsZW1hcC5jZWxsQm91bmRzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK546p5a626LCD5pW05Yiw6IqC54K55Lit6Ze0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aGZpbmRpbmdCZWhhdmlvdXIgPSBnYW1lT2JqZWN0LkdldENvbXBvbmVudDxQYXRoZmluZGluZ0JlaGF2aW91cj4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFBhdGhmaW5kaW5nQmVoYXZpb3VyIHBhdGhmaW5kaW5nQmVoYXZpb3VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgU3RhcnQoKQogICAgICAgIHsKICAgICAgICAgICAgZ3JhcGhWaWV3ID0gR2V0R3JhcGhWaWV3KCk7CgogICAgICAgICAgICAvLyB2YXIgbm9kZSA9IGdyYXBoVmlldy5HZXROb2RlKG9yaWdpbik7CiAgICAgICAgICAgIC8vIHBsYXllci50cmFuc2Zvcm0ucG9zaXRpb24gPSBncmFwaFZpZXcuR2V0Tm9kZUNlbnRlcldvcmxkKG5vZGUuSW5kZXgpOwoKICAgICAgICAgICAgZ3JhcGhWaWV3LkRyYXdHcmFwaCgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnJlbnQgPSBnb2FsOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK546p5a626LCD5pW05Yiw6IqC54K55Lit6Ze0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK546p5a626LCD5pW05Yiw6IqC54K55Lit6Ze0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZ3JhcGhWaWV3LkRyYXdHcmFwaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgU3RhcnQoKQogICAgICAgIHsKICAgICAgICAgICAgZ3JhcGhWaWV3ID0gR2V0R3JhcGhWaWV3KCk7CgogICAgICAgICAgICAvLyB2YXIgbm9kZSA9IGdyYXBoVmlldy5HZXROb2RlKG9yaWdpbik7CiAgICAgICAgICAgIC8vIHBsYXllci50cmFuc2Zvcm0ucG9zaXRpb24gPSBncmFwaFZpZXcuR2V0Tm9kZUNlbnRlcldvcmxkKG5vZGUuSW5kZXgpOwoKICAgICAgICAgICAgZ3JhcGhWaWV3LkRyYXdHcmFwaCgpOwogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZ3JhcGhWaWV3ID0gbmV3IEdyYXBoVmlldzxOb2RlPihuZXcgaW50W3dpZHRoLCBoZWlnaHRdLCBjZWxsU2l6ZSwgb3JpZ2luKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK546p5a626LCD5pW05Yiw6IqC54K55Lit6Ze0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK546p5a626LCD5pW05Yiw6IqC54K55Lit6Ze0Cg==</text>
       </register>
     </registers>
   </component>
