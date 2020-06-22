@@ -111,12 +111,12 @@
         <mark key="." line="128" column="0" />
         <mark key="^" line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1592803728839">
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1592805729694">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="58" column="47" />
-        <mark key="]" line="58" column="73" />
-        <mark key="^" line="58" column="73" />
-        <mark key="." line="58" column="72" />
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="19" />
+        <mark key="." line="61" column="18" />
+        <mark key="^" line="61" column="19" />
       </file>
       <file name="/" timestamp="1592382138844">
         <mark key="[" line="0" column="0" />
@@ -139,12 +139,11 @@
         <mark key="." line="39" column="31" />
         <mark key="^" line="39" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" timestamp="1592220847686">
-        <mark key="'" line="87" column="23" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="84" />
-        <mark key="^" line="85" column="12" />
-        <mark key="." line="85" column="11" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" timestamp="1592806532706">
+        <mark key="[" line="57" column="9" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="58" column="26" />
+        <mark key="." line="58" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/278D7C4E-E8D0-44FE-B0B2-1F214107358B/ae/c9a44a56/GraphicsDeviceManager.cs" timestamp="1592372495436">
         <mark key="'" line="69" column="11" />
@@ -160,9 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="22" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="93" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" />
-      <jump line="115" column="19" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="57" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/INode.cs" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/INode.cs" />
       <jump line="134" column="27" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
@@ -260,48 +256,51 @@
       <jump line="28" column="33" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" />
       <jump line="23" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" />
       <jump line="21" column="31" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/MovementController.cs" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" />
+      <jump line="65" column="44" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>treu</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>treu</text>
+        <text>rturn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcml2YXRlIHZvaWQgTW92ZW1lbnQoKQogICAgICAgIC8vIHsKICAgICAgICAvLyAgICAgdmFyIHdvcmxkUG9zaXRpb24gPSBVdGlsc0NsYXNzLkdldE1vdXNlV29ybGRQb3NpdGlvbigpOwogICAgICAgIC8vICAgICB2YXIgcGxheWVyUG9zaXRpb24gPSBwbGF5ZXIudHJhbnNmb3JtLnBvc2l0aW9uOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIC8vIERlYnVnLkxvZyhwYXRoZmluZGVyVmlldy5EZWJ1Z0xvZygpKTsKICAgICAgICAvLwogICAgICAgIC8vICAgICBpZiAocGF0aC5Jc05vdEVtcHR5KCkpCiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgIERyYXdQYXRoKHBhdGgpOwogICAgICAgIC8vICAgICAgICAgbW92ZW1lbnRDb250cm9sbGVyLlNldFBhdGgocGF0aCk7CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyaWRzID0gR2V0TW92ZUFibGVHcmlkcyhzdGFydE5vZGUuSW5kZXgsIHJhbmdlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZW1lbnQuZW5hYmxlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZW1lbnQuZW5hYmxlZCA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZW1lbnQuTW92ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGdyaWRzID0gbmV3IExpc3Q8SU5vZGU+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZW1lbnQuZW5hYmxlZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdW5kU3RhcnRYID0gc3RhcnROb2RlLkluZGV4LnggLSByYW5nZTsKICAgICAgICAgICAgdmFyIGJvdW5kU3RhcnRZID0gc3RhcnROb2RlLkluZGV4LnkgLSByYW5nZTsKICAgICAgICAgICAgdmFyIGJvdW5kRW5kWCA9IHN0YXJ0Tm9kZS5JbmRleC54ICsgcmFuZ2U7CiAgICAgICAgICAgIHZhciBib3VuZEVuZFkgPSBzdGFydE5vZGUuSW5kZXgueSArIHJhbmdlOwoKICAgICAgICAgICAgZm9yIChpbnQgeCA9IGJvdW5kU3RhcnRYOyB4IDw9IGJvdW5kRW5kWDsgeCsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBmb3IgKGludCB5ID0gYm91bmRTdGFydFk7IHkgPD0gYm91bmRFbmRZOyB5KyspCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIG5vZGUgPSBncmFwaFZpZXcuR3JhcGguR2V0Tm9kZShuZXcgVmVjdG9yM0ludCh4LCB5LCAwKSk7CgogICAgICAgICAgICAgICAgICAgIGlmIChub2RlICE9IG51bGwpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBncmlkcy5BZGQobm9kZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92ZW1lbnQgPSBnYW1lT2JqZWN0LkdldENvbXBvbmVudDxNb3ZlbWVudENvbnRyb2xsZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIENvbnZlcnRQYXRoVG9Xb3JsZFBvc2l0aW9uKGdyaWRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIE1vdmVtZW50Q29udHJvbGxlciBtb3ZlbWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXJ0Tm9kZSA9IGdyYXBoVmlldy5HZXROb2RlKHBsYXllcldvcmxkUG9zaXRpb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXJ0Tm9kZSA9IGdyYXBoVmlldy5HZXROb2RlKHBsYXllcldvcmxkUG9zaXRpb24pOwogICAgICAgICAgICB2YXIgYm91bmRTdGFydFggPSBzdGFydE5vZGUuSW5kZXgueCAtIHJhbmdlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXJ0Tm9kZSA9IGdyYXBoVmlldy5HZXROb2RlKHBsYXllcldvcmxkUG9zaXRpb24pOwo=</text>
       </register>
     </registers>
   </component>
