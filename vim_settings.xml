@@ -59,10 +59,6 @@
       <file name="/Dummy.txt" timestamp="1592373569017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E680FFA-6D7E-4E5B-AC0A-59A8559254AB/0e/d1c69222/LogManager.cs" timestamp="1592372412617">
-        <mark key="'" line="205" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Heatmap/MeshVisual.cs" timestamp="1592989821988" />
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/MovementController.cs" timestamp="1592988945980">
         <mark key="'" line="21" column="31" />
         <mark key="[" line="61" column="16" />
@@ -79,6 +75,13 @@
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Demos/Pathfinding/PathfindingDemo.cs" timestamp="1592797065903">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="28" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/TerrainGridBehavior.cs" timestamp="1593163869321">
+        <mark key="'" line="176" column="1" />
+        <mark key="[" line="46" column="23" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Node.cs" timestamp="1592985683175">
         <mark key="'" line="67" column="31" />
@@ -157,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/INode.cs" />
       <jump line="134" column="27" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="45" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" />
       <jump line="35" column="44" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
@@ -257,15 +259,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" />
       <jump line="65" column="44" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" />
       <jump line="67" column="31" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Node.cs" />
+      <jump line="149" column="1" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/TerrainGridBehavior.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK5Y+v56e75Yqo55qECg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
