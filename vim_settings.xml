@@ -56,28 +56,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/MovementController.cs" timestamp="1592988945980">
-        <mark key="'" line="21" column="31" />
-        <mark key="[" line="61" column="16" />
-        <mark key="]" line="61" column="34" />
-        <mark key="." line="61" column="33" />
-        <mark key="^" line="61" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/TerrainGridBehavior.cs" timestamp="1593163869321">
-        <mark key="'" line="176" column="1" />
-        <mark key="[" line="46" column="23" />
-        <mark key="]" line="46" column="34" />
-        <mark key="^" line="46" column="34" />
-        <mark key="." line="46" column="33" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Variables/ListVector3Variable.cs" timestamp="1594023505383">
+        <mark key="[" line="9" column="65" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="65" />
+        <mark key="^" line="9" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/VoidEventListener.cs" timestamp="1594020947962" />
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Pathfinder.cs" timestamp="1593670799355">
-        <mark key="[" line="90" column="30" />
-        <mark key="]" line="90" column="31" />
-        <mark key="." line="90" column="31" />
-        <mark key="^" line="90" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Events/Game Events/Vector3EventGameEvent.cs" timestamp="1594018459343" />
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/ListVector3UnityEvent.cs" timestamp="1594020840037">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="21" />
@@ -86,52 +71,63 @@
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/IntEventListener.cs" timestamp="1594021276636" />
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/IntEvent.cs" timestamp="1594020613223" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Events/Listeners/ListVector3GameEventListener.cs" timestamp="1594023128657">
+        <mark key="[" line="6" column="89" />
+        <mark key="]" line="6" column="90" />
+        <mark key="^" line="6" column="90" />
+        <mark key="." line="6" column="89" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/ListVector3Event.cs" timestamp="1594020823687">
         <mark key="[" line="4" column="69" />
         <mark key="]" line="4" column="82" />
         <mark key="." line="4" column="81" />
         <mark key="^" line="4" column="82" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Library/PackageCache/com.danieleverland.scriptableobjectarchitecture@1.6.4/Events/Game Events/GameEventBase.cs" timestamp="1594018728747" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/ScriptableObjectArchitecture/Events/Listeners/ListVector3GameEventListener.cs" timestamp="1594023784826" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/References/ListVector3Reference.cs" timestamp="1594023192419">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="49" />
+        <mark key="^" line="11" column="49" />
+        <mark key="." line="11" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Events/Listeners/List&lt;Vector3&gt;GameEventListener.cs" timestamp="1594020151505">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="35" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/DisplayPathBehaviour.cs" timestamp="1594019495793">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="44" />
-        <mark key="^" line="8" column="44" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/DisplayPathBehaviour.cs" timestamp="1594024282448">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/UnityIntEvent.cs" timestamp="1594020835749">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Library/PackageCache/com.danieleverland.scriptableobjectarchitecture@1.6.4/Collections/Vector3Collection.cs" timestamp="1594019400268" />
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1594019535433">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="50" />
-        <mark key="." line="27" column="49" />
-        <mark key="^" line="27" column="50" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1594024244555">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/PathfinderView.cs" timestamp="1592989142118">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Events/Game Events/ListVector3GameEvent.cs" timestamp="1594022999199">
+        <mark key="[" line="10" column="74" />
+        <mark key="]" line="10" column="75" />
+        <mark key="^" line="10" column="75" />
+        <mark key="." line="10" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Events/Game Events/List&lt;Vector3&gt;GameEvent.cs" timestamp="1594020114584">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/ScriptableObjectArchitecture/Events/Game Events/ListVector3GameEvent.cs" timestamp="1594023587123">
+        <mark key="[" line="8" column="72" />
+        <mark key="]" line="8" column="69" />
+        <mark key="^" line="8" column="69" />
+        <mark key="." line="8" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/CharacterBehaviour.cs" timestamp="1592989052836">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/Events/Responses/ListVector3UnityEvent.cs" timestamp="1594023067456">
+        <mark key="[" line="7" column="72" />
+        <mark key="]" line="7" column="73" />
+        <mark key="^" line="7" column="73" />
+        <mark key="." line="7" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/trash/Assets/Scripts/Events/ListVector3Listener.cs" timestamp="1594021059597">
         <mark key="[" line="4" column="90" />
@@ -139,11 +135,11 @@
         <mark key="." line="4" column="110" />
         <mark key="^" line="4" column="111" />
       </file>
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Library/PackageCache/com.danieleverland.scriptableobjectarchitecture@1.6.4/Events/Listeners/BaseGameEventListener.cs" timestamp="1594023842761">
+        <mark key="'" line="265" column="8" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" />
-      <jump line="35" column="44" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
-      <jump line="184" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="53" column="19" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Tile/GraphView.cs" />
       <jump line="22" column="21" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/GraphView.cs" />
       <jump line="12" column="42" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Contracts/IGraphView.cs" />
@@ -241,48 +237,51 @@
       <jump line="67" column="31" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/Node.cs" />
       <jump line="149" column="1" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/PathFinding/TerrainGridBehavior.cs" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" />
+      <jump line="10" column="81" filename="$USER_HOME$/Projects/Unity/Fairchild/Library/PackageCache/com.danieleverland.scriptableobjectarchitecture@1.6.4/Events/Listeners/BaseGameEventListener.cs" />
+      <jump line="265" column="8" filename="$USER_HOME$/Projects/Unity/Fairchild/Library/PackageCache/com.danieleverland.scriptableobjectarchitecture@1.6.4/Events/Listeners/BaseGameEventListener.cs" />
+      <jump line="63" column="0" filename="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>UnityVoidEvent</text>
+        <text>10f</text>
       </register>
       <register name="-" type="4">
-        <text>UnityVoidEvent</text>
+        <text>10f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W1N5c3RlbS5TZXJpYWxpemFibGVdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25QYXRoRm91bmRFdmVudD8uUmFpc2UocG9zaXRpb25zKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwoKICAgICAgICAgICAgdmFyIGNvbG9yID0gQ29sb3IuZ3JlZW47CiAgICAgICAgICAgIHZhciBkdXJhdGlvbiA9IDEwMGY7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBwb3NpdGlvbiBpbiBwb3NpdGlvbnMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIERlYnVnLkRyYXdMaW5lKHBvc2l0aW9uLCBuZXcgVmVjdG9yMyhwb3NpdGlvbi54ICsgY2VsbFNpemUsIHBvc2l0aW9uLnksIHBvc2l0aW9uLnopLCBjb2xvciwgZHVyYXRpb24pOwogICAgICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUocG9zaXRpb24sIG5ldyBWZWN0b3IzKHBvc2l0aW9uLngsIHBvc2l0aW9uLnkgKyBjZWxsU2l6ZSwgcG9zaXRpb24ueiksIGNvbG9yLCBkdXJhdGlvbik7CgogICAgICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUobmV3IFZlY3RvcjMocG9zaXRpb24ueCwgcG9zaXRpb24ueSArIGNlbGxTaXplLCBwb3NpdGlvbi56KSwKICAgICAgICAgICAgICAgICAgICBuZXcgVmVjdG9yMyhwb3NpdGlvbi54ICsgY2VsbFNpemUsIHBvc2l0aW9uLnkgKyBjZWxsU2l6ZSwgcG9zaXRpb24ueiksIGNvbG9yLCBkdXJhdGlvbik7CgogICAgICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUobmV3IFZlY3RvcjMocG9zaXRpb24ueCArIGNlbGxTaXplLCBwb3NpdGlvbi55ICsgY2VsbFNpemUsIHBvc2l0aW9uLnopLAogICAgICAgICAgICAgICAgICAgIG5ldyBWZWN0b3IzKHBvc2l0aW9uLnggKyBjZWxsU2l6ZSwgcG9zaXRpb24ueSwgcG9zaXRpb24ueiksIGNvbG9yLCBkdXJhdGlvbik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25QYXRoRm91bmRFdmVudD8uUmFpc2UocGF0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFtTZXJpYWxpemVGaWVsZF0KICAgIHByaXZhdGUgVmVjdG9yM0NvbGxlY3Rpb24gX2Rpc3BsYXlFdmVudDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIOiOt+WPlueOqeWutuWPr+enu+WKqOeahOiMg+WbtOiKgueCuQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxyZXR1cm5zPiBXb3JsZCBQb3NpdGlvbjwvcmV0dXJucz4KICAgICAgICBwdWJsaWMgTGlzdDxWZWN0b3IzPiBHZXRNb3ZlQWJsZVdvcmxkUG9zaXRpb25zKFZlY3RvcjMgcGxheWVyV29ybGRQb3NpdGlvbiwgaW50IHJhbmdlKQogICAgICAgIHsKICAgICAgICAgICAgLy8g6I635Y+W6KeS6Imy5Zub5ZGo5ZCEIFgg5Liq6IqCIHBvdyh4KjIrMSwgMikKICAgICAgICAgICAgcmV0dXJuIHBhdGhmaW5kZXJWaWV3LkdldE1vdmVBYmxlV29ybGRQb3NpdGlvbnMocGxheWVyV29ybGRQb3NpdGlvbiwgcmFuZ2UpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICghTm9kZXMuQ29udGFpbnNLZXkoc3RhcnRJbmRleCkgfHwgIU5vZGVzLkNvbnRhaW5zS2V5KGdvYWxJbmRleCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXRoOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
     </registers>
   </component>
