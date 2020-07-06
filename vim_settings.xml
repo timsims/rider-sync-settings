@@ -91,12 +91,12 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/DisplayPathBehaviour.cs" timestamp="1594040641803">
-        <mark key="'" line="58" column="43" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/DisplayPathBehaviour.cs" timestamp="1594041361918">
+        <mark key="'" line="63" column="43" />
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="53" column="29" />
+        <mark key="^" line="53" column="29" />
+        <mark key="." line="53" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/ScriptableObjectArchitecture/Events/Void.cs" timestamp="1594025947937" />
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1594024244555">
