@@ -87,12 +87,12 @@
         <mark key="^" line="11" column="49" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/DisplayPathBehaviour.cs" timestamp="1594027339465">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/DisplayPathBehaviour.cs" timestamp="1594038583728">
+        <mark key="'" line="29" column="23" />
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/ScriptableObjectArchitecture/Events/Void.cs" timestamp="1594025947937" />
       <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1594024244555">
@@ -245,11 +245,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU2NyaXB0YWJsZU9iamVjdEFyY2hpdGVjdHVyZTsK</text>
+      <register name="&quot;" type="4">
+        <text>GameObject</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>GameObject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyXD4=</text>
