@@ -115,12 +115,11 @@
         <mark key="." line="90" column="31" />
         <mark key="^" line="90" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1592989036767">
+      <file name="$USER_HOME$/Projects/Unity/Fairchild/Assets/Scripts/TurnBattleSystem/PathfindingBehaviour.cs" timestamp="1593670935041">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="80" column="86" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="/" timestamp="1592382138844">
         <mark key="[" line="0" column="0" />
@@ -280,28 +279,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIOiOt+WPlueOqeWutuWPr+enu+WKqOeahOiMg+WbtOiKgueCuQogICAgICAgIC8vLyA8L3N1bW1hcnk+CiAgICAgICAgLy8vIDxyZXR1cm5zPiBXb3JsZCBQb3NpdGlvbjwvcmV0dXJucz4KICAgICAgICBwdWJsaWMgTGlzdDxWZWN0b3IzPiBHZXRNb3ZlQWJsZVdvcmxkUG9zaXRpb25zKFZlY3RvcjMgcGxheWVyV29ybGRQb3NpdGlvbiwgaW50IHJhbmdlKQogICAgICAgIHsKICAgICAgICAgICAgLy8g6I635Y+W6KeS6Imy5Zub5ZGo5ZCEIFgg5Liq6IqCIHBvdyh4KjIrMSwgMikKICAgICAgICAgICAgcmV0dXJuIHBhdGhmaW5kZXJWaWV3LkdldE1vdmVBYmxlV29ybGRQb3NpdGlvbnMocGxheWVyV29ybGRQb3NpdGlvbiwgcmFuZ2UpOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICghTm9kZXMuQ29udGFpbnNLZXkoc3RhcnRJbmRleCkgfHwgIU5vZGVzLkNvbnRhaW5zS2V5KGdvYWxJbmRleCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXRoOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK5Y+v56e75Yqo55qECg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICghTm9kZXMuQ29udGFpbnNLZXkoc3RhcnRJbmRleCkgfHwgIU5vZGVzLkNvbnRhaW5zS2V5KGdvYWxJbmRleCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXRoOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgRHJhd1BsYXllck1vdmVBYmxlUG9zaXRpb25zKFZlY3RvcjMgdHJhbnNmb3JtUG9zaXRpb24pCiAgICAgICAgewogICAgICAgICAgICB2YXIgcGF0aCA9IHBhdGhmaW5kaW5nQmVoYXZpb3VyLkdldE1vdmVBYmxlV29ybGRQb3NpdGlvbnMoZ2FtZU9iamVjdC50cmFuc2Zvcm0ucG9zaXRpb24sKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqK5Y+v56e75Yqo55qECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbG9yID0gQ29sb3IuZ3JlZW47CiAgICAgICAgICAgIHZhciBkdXJhdGlvbiA9IDEwMGY7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBwb3NpdGlvbiBpbiBwb3NpdGlvbnMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIERlYnVnLkRyYXdMaW5lKHBvc2l0aW9uLCBuZXcgVmVjdG9yMyhwb3NpdGlvbi54ICsgY2VsbFNpemUsIHBvc2l0aW9uLnksIHBvc2l0aW9uLnopLCBjb2xvciwgZHVyYXRpb24pOwogICAgICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUocG9zaXRpb24sIG5ldyBWZWN0b3IzKHBvc2l0aW9uLngsIHBvc2l0aW9uLnkgKyBjZWxsU2l6ZSwgcG9zaXRpb24ueiksIGNvbG9yLCBkdXJhdGlvbik7CgogICAgICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUobmV3IFZlY3RvcjMocG9zaXRpb24ueCwgcG9zaXRpb24ueSArIGNlbGxTaXplLCBwb3NpdGlvbi56KSwKICAgICAgICAgICAgICAgICAgICBuZXcgVmVjdG9yMyhwb3NpdGlvbi54ICsgY2VsbFNpemUsIHBvc2l0aW9uLnkgKyBjZWxsU2l6ZSwgcG9zaXRpb24ueiksIGNvbG9yLCBkdXJhdGlvbik7CgogICAgICAgICAgICAgICAgRGVidWcuRHJhd0xpbmUobmV3IFZlY3RvcjMocG9zaXRpb24ueCArIGNlbGxTaXplLCBwb3NpdGlvbi55ICsgY2VsbFNpemUsIHBvc2l0aW9uLnopLAogICAgICAgICAgICAgICAgICAgIG5ldyBWZWN0b3IzKHBvc2l0aW9uLnggKyBjZWxsU2l6ZSwgcG9zaXRpb24ueSwgcG9zaXRpb24ueiksIGNvbG9yLCBkdXJhdGlvbik7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
