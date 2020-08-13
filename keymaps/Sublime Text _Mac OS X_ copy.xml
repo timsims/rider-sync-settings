@@ -1,5 +1,7 @@
 <keymap version="1" name="Sublime Text (Mac OS X) copy" parent="Sublime Text (Mac OS X)">
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta b" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -50,12 +52,10 @@
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
-  <action id="KJumpAction.Word0">
-    <keyboard-shortcut first-keystroke="back_slash" second-keystroke="back_slash" />
-  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NextEditorTab" />
+  <action id="NextWindow" />
   <action id="PreviousEditorTab" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
