@@ -55,6 +55,9 @@
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NextEditorTab" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="NextWindow" />
   <action id="PreviousEditorTab" />
   <action id="ReformatCode">
